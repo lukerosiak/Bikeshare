@@ -1,0 +1,6 @@
+Set up a cronjob to run bikeshare.py say, every 15 minutes, and a snapshot of the Capital Bikeshare station occupancy will be appended to a CSV file. When you've got data for a significant period of time, you can do analysis.
+
+This script was used to help create the following Google Fusion Tables map and article:
+http://www.washingtontimes.com/news/2011/jul/27/finding-fewer-bikes-while-sharing-human-connection/
+
+-Luke Rosiak, July 2011.
